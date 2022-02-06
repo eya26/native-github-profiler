@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View } from "react-native";
 
-export default function Profile() {
+export default function RepositoriesScreen() {
   return (
     <View style={styles.container}>
       <Text>Hello from Respositories</Text>
