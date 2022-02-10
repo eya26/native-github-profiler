@@ -5,7 +5,7 @@ In this exercise, we will create a mobile version for the [Github Profiler](http
 ### Steps
 
 - [ ] Create the `.env` file that will hold your API token
-- [ ] Create a directory called `Screens` and create the needed components
+- [ ] Create a directory called `screens` and create the needed components
 - [ ] Bring the implementation code from the web app and adapt it to React Native
 - [ ] Create a directory called `redux` and create the **store** with the needed **actions** and **reducers** for `profile` and `repos` slices
 - [ ] Create a navigation between the 2 screens (profile / repos)
